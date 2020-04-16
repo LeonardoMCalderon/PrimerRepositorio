@@ -1,0 +1,3 @@
+"""Area de un triangulo"""
+
+Base = int(input(¿Cual es la base del triangulo?))
